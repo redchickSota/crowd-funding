@@ -1,6 +1,6 @@
-# chat-app
+# Crowdfunding fronend
 
-> A Vue.js project
+> A Vue.js project of CrowdFundiing
 
 ## Build Setup
 
@@ -16,3 +16,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
